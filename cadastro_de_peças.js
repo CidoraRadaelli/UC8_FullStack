@@ -24,7 +24,7 @@ if(pesoPeça >= 100){
 
 
 if(listaPeça >10){
-    console.log( " Capacidade insufciente para o número de peças. ")
+    console.log(" Capacidade insufciente para o número de peças. ")
 } else{
     console.log(" Lista aprovada. ")
 }
