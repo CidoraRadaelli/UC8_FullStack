@@ -1,2 +1,2 @@
 # UC8_FullStack
-Atividades referentes a UC8 do Curso Full Stack
+Atividades referentes a UC8 do Curso Full Stack.
