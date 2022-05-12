@@ -7,7 +7,7 @@ var dataEvento = parseFloat(entrada.question(" Qual dia deste mês acontece o ev
 if(dataEvento > dataAtual){
     console.log( " Evento confirmado. ")
 } else{
-    console.log(" Data inválida. ")
+    console.log(" Data inválida. ") 
 }
 
 var idade = parseFloat(entrada.question(" Qual é a sua idade ? "));
